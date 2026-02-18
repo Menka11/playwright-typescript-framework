@@ -1,2 +1,0 @@
-[    8460ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyAHApv9HqTe7ECm8DfaPtWhV_TLSgzy3fk&libraries=places&callback=initGoogleMaps:1379
-[   51709ms] [WARNING] No storage type selected @ http://www.laitmatus.online/wp-content/themes/recnation/blocks/build/recnation-unified-facilities/view.js?ver=0ba03e93dd6d3a1ad415:0

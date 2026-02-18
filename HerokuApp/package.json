@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "playwright": "^1.58.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.0-alpha-2026-02-06",
+    "@types/node": "^25.0.10"
+  },
+  "scripts": {
+    "test": "npx playweight test"
+  }
+}

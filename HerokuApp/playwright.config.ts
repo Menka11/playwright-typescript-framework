@@ -35,10 +35,7 @@ export default defineConfig({
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
-<<<<<<< HEAD
     screenshot: 'only-on-failure',
-=======
->>>>>>> 4c331ab57de9aaf0f1fb33709ff545f0307b1de2
     headless: true,
     // baseURL: 'https://the-internet.herokuapp.com/',
     
